@@ -11,6 +11,5 @@
         "REditorSupport.r"
       ]
     }
-  },
-  "postCreateCommand": "R -e \"install.packages('IRkernel', repos='https://r-project.org'); IRkernel::installspec(user = FALSE)\""
+  }
 }
